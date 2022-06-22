@@ -1,0 +1,8 @@
+[
+  {"name": "Hanteln", "price": 30.00},
+  {"name": "Dumbbell", "price": 25.00},
+  {"name": "Gymnastikball", "price": 15.00},
+  {"name": "Gummibänder (4 Stk.)", "price": 10.00 },
+  {"name": "Balanceball", "price": 15.00},
+  {"name": "Gymbench", "price": 150.00}
+]
